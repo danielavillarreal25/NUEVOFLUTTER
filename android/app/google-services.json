@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449463685337",
+    "project_id": "recetario-4bbb7",
+    "storage_bucket": "recetario-4bbb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449463685337:android:c7473e20e56ac28d712ec8",
+        "android_client_info": {
+          "package_name": "com.dani.app4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQoJTDGWcSPJg_-l9X8cCXzhTqxiKC870"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
